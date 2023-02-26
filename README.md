@@ -4,7 +4,7 @@
 
 Welcome to Snifter!
 
-Snifter is a software package for processing .3dg files. .3dg files are a file format used for storing 3D graphics data. Snifter provides a powerful set of tools for reading, processing, and visualizing .3dg files, enabling you to easily process and analyze 3D genome data generate with Dip-C or HiRES or even CHARM!
+Snifter is a software package for processing .3dg files. .3dg files are a file format used for storing 3D genome structure data. Snifter provides a powerful set of tools for reading, processing, and visualizing .3dg files, enabling you to easily process and analyze 3D genome data generate with Dip-C or HiRES or even CHARM!
 
 With Snifter, you can:
 
